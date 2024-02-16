@@ -19,7 +19,7 @@ Explore a comprehensive lecture series covering the fundamentals of reinforcemen
 .
 Course Notes
 
-Dive deeper into the concepts with detailed course notes prepared alongside the project. These notes complement the YouTube lectures by providing additional insights and explanations. Access the course notes here. [Course Notes]([https://drive.google.com/path/to/your/document](https://drive.google.com/file/d/1bBSM_yb4WVxkNp7AJbb8v-QaWooSwsEq/view?usp=sharing))
+Dive deeper into the concepts with detailed course notes prepared alongside the project. These notes complement the YouTube lectures by providing additional insights and explanations. Access the course notes here. [Course Notes](https://drive.google.com/file/d/1bBSM_yb4WVxkNp7AJbb8v-QaWooSwsEq/view?usp=sharing)
 
 
 Installation
